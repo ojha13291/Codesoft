@@ -1,0 +1,140 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fbc2eb, #a18cd1);
+  background-size: 400% 400%;
+  animation: gradientBG 15s ease infinite;
+  color: #333;
+}
+
+@keyframes gradientBG {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #282c34;
+  color: white;
+}
+
+header .logo {
+  font-size: 1.5rem;
+}
+
+header nav a {
+  color: white;
+  margin: 0 0.5rem;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
+
+/* Intro Section */
+#intro {
+  text-align: center;
+  padding: 2rem 1rem;
+  background: #282c34;
+  color: white;
+  animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+#intro .links a {
+  margin: 0.5rem;
+  text-decoration: none;
+  color: white;
+  background: #61dafb;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  transition: transform 0.3s ease;
+}
+
+#intro .links a:hover {
+  transform: scale(1.1);
+}
+
+/* About Section */
+#about {
+  text-align: center;
+  padding: 2rem;
+}
+
+#about img {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+/* Skills Section */
+#skills {
+  padding: 2rem;
+  text-align: center;
+}
+
+#skills ul {
+  list-style: none;
+  display: inline-block;
+}
+
+#skills li {
+  padding: 0.5rem 0;
+}
+
+/* Projects Section */
+#projects {
+  padding: 2rem;
+}
+
+#projects .project {
+  margin-bottom: 1rem;
+}
+
+/* Contact Section */
+#contact {
+  padding: 2rem;
+  text-align: center;
+}
+
+#contact a {
+  color: #61dafb;
+  text-decoration: none;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #282c34;
+  color: white;
+}
