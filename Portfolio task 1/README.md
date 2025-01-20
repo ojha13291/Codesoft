@@ -29,7 +29,7 @@ AyushPortfolio/ ├── index.html # Main HTML file ├── style.css # Styl
 ## 💻 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ojha13291/AyushPortfolio.git
+   git clone https://github.com/ojha13291/Codesoft/Portfolio task 1.git
 
 2. Navigate to the project directory:
   cd AyushPortfolio
