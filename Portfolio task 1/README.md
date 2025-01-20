@@ -31,8 +31,7 @@ Portfolio task 1/ ├── index.html # Main HTML file ├── style.css # St
    ```bash
    git clone https://github.com/ojha13291/Codesoft/Portfolio task 1.git
 
-2. Navigate to the project directory:
-   
-  cd Codesoft/Portfolio task 1
+2. Navigate to the project directory: 
+   cd Codesoft/Portfolio task 1
 
 4. Open index.html in your browser to view the website locally.
