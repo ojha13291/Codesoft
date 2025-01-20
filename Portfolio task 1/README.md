@@ -21,7 +21,7 @@ Website Link : https://codesoft-portfolio-ggd6mpww0-ayush-kumars-projects-cc135c
 ---
 
 ## 📂 Folder Structure
-AyushPortfolio/ ├── index.html # Main HTML file ├── style.css # Styling file ├── images/ # Folder for images (Add your photo as ayush.jpg) ├── resume.pdf # Your resume file
+Portfolio task 1/ ├── index.html # Main HTML file ├── style.css # Styling file ├── images/ # Folder for images (Add your photo as ayush.jpg) ├── resume.pdf # Your resume file
 
 
 ---
@@ -32,6 +32,6 @@ AyushPortfolio/ ├── index.html # Main HTML file ├── style.css # Styl
    git clone https://github.com/ojha13291/Codesoft/Portfolio task 1.git
 
 2. Navigate to the project directory:
-  cd AyushPortfolio
+  cd Codesoft/Portfolio task 1
 
 3. Open index.html in your browser to view the website locally.
