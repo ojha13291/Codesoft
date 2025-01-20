@@ -1,6 +1,8 @@
-# Ayush Kumar - Portfolio Website : https://codesoft-portfolio-ggd6mpww0-ayush-kumars-projects-cc135c7c.vercel.app/
+# Ayush Kumar - Portfolio Website 
 
 This is my personal portfolio website built using HTML, CSS, and AOS (Animate on Scroll) animations for Codesoft internship . It showcases my skills, projects, and contact details.
+
+Website Link : https://codesoft-portfolio-ggd6mpww0-ayush-kumars-projects-cc135c7c.vercel.app/
 
 ## 🌟 Features
 - **Responsive Design**: The website looks great on all devices.
